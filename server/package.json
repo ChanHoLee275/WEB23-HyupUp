@@ -33,7 +33,7 @@
     "@socket.io/redis-adapter": "^7.0.1",
     "bcrypt": "^5.0.1",
     "connect-history-api-fallback": "^1.6.0",
-    "connect-redis": "^6.0.0",
+    "connect-redis": "^7.0.1",
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
     "debug": "^4.3.3",
